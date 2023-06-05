@@ -21,3 +21,6 @@ diffusers=0.12.1
 
 <br><br>
 2023年6月2日更新:修改3.dream booth,修正了过拟合的问题.
+
+<br><br>
+2023年6月5日更新:修改5.lora dream booth,修正了过拟合的问题. 基于很多原因, 删除了6.lora text to image.
