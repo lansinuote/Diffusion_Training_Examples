@@ -2,6 +2,12 @@
 
 <br>
 
+<br>
+视频课程1:https://www.bilibili.com/video/BV1184y1g7pG
+<br>
+视频课程2:https://www.bilibili.com/video/BV1Go4y1M7cK
+<br><br>
+
 环境信息:
 <br>
 python=3.9
@@ -15,10 +21,6 @@ datasets=2.9.0
 huggingface_hub=0.12.1
 <br>
 diffusers=0.12.1
-<br>
-视频课程1:https://www.bilibili.com/video/BV1184y1g7pG
-<br>
-视频课程2:https://www.bilibili.com/video/BV1Go4y1M7cK
 
 <br><br>
 2023年5月25日更新:添加3个新的任务.
